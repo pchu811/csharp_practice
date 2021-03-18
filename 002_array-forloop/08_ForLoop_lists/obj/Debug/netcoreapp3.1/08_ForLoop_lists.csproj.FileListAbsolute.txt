@@ -1,0 +1,12 @@
+D:\C#\002_TestPractice\08_ForLoop_lists\bin\Debug\netcoreapp3.1\08_ForLoop_lists.exe
+D:\C#\002_TestPractice\08_ForLoop_lists\bin\Debug\netcoreapp3.1\08_ForLoop_lists.deps.json
+D:\C#\002_TestPractice\08_ForLoop_lists\bin\Debug\netcoreapp3.1\08_ForLoop_lists.runtimeconfig.json
+D:\C#\002_TestPractice\08_ForLoop_lists\bin\Debug\netcoreapp3.1\08_ForLoop_lists.runtimeconfig.dev.json
+D:\C#\002_TestPractice\08_ForLoop_lists\bin\Debug\netcoreapp3.1\08_ForLoop_lists.dll
+D:\C#\002_TestPractice\08_ForLoop_lists\bin\Debug\netcoreapp3.1\08_ForLoop_lists.pdb
+D:\C#\002_TestPractice\08_ForLoop_lists\obj\Debug\netcoreapp3.1\08_ForLoop_lists.AssemblyInfoInputs.cache
+D:\C#\002_TestPractice\08_ForLoop_lists\obj\Debug\netcoreapp3.1\08_ForLoop_lists.AssemblyInfo.cs
+D:\C#\002_TestPractice\08_ForLoop_lists\obj\Debug\netcoreapp3.1\08_ForLoop_lists.csproj.CoreCompileInputs.cache
+D:\C#\002_TestPractice\08_ForLoop_lists\obj\Debug\netcoreapp3.1\08_ForLoop_lists.dll
+D:\C#\002_TestPractice\08_ForLoop_lists\obj\Debug\netcoreapp3.1\08_ForLoop_lists.pdb
+D:\C#\002_TestPractice\08_ForLoop_lists\obj\Debug\netcoreapp3.1\08_ForLoop_lists.genruntimeconfig.cache
