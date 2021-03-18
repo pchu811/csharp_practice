@@ -1,0 +1,4 @@
+D:\C#\001_線性表\002_棧\obj\Debug\netcoreapp3.1\002_棧.csprojAssemblyReference.cache
+D:\C#\001_線性表\002_棧\obj\Debug\netcoreapp3.1\002_棧.AssemblyInfoInputs.cache
+D:\C#\001_線性表\002_棧\obj\Debug\netcoreapp3.1\002_棧.AssemblyInfo.cs
+D:\C#\001_線性表\002_棧\obj\Debug\netcoreapp3.1\002_棧.csproj.CoreCompileInputs.cache
