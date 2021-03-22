@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\for loop (if else)\for loop (if else)\bin\Debug\netcoreapp3.1\for loop (if else).exe
+C:\Users\DELL\source\repos\for loop (if else)\for loop (if else)\bin\Debug\netcoreapp3.1\for loop (if else).deps.json
+C:\Users\DELL\source\repos\for loop (if else)\for loop (if else)\bin\Debug\netcoreapp3.1\for loop (if else).runtimeconfig.json
+C:\Users\DELL\source\repos\for loop (if else)\for loop (if else)\bin\Debug\netcoreapp3.1\for loop (if else).runtimeconfig.dev.json
+C:\Users\DELL\source\repos\for loop (if else)\for loop (if else)\bin\Debug\netcoreapp3.1\for loop (if else).dll
+C:\Users\DELL\source\repos\for loop (if else)\for loop (if else)\bin\Debug\netcoreapp3.1\for loop (if else).pdb
+C:\Users\DELL\source\repos\for loop (if else)\for loop (if else)\obj\Debug\netcoreapp3.1\for loop (if else).csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\for loop (if else)\for loop (if else)\obj\Debug\netcoreapp3.1\for loop (if else).AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\for loop (if else)\for loop (if else)\obj\Debug\netcoreapp3.1\for loop (if else).AssemblyInfo.cs
+C:\Users\DELL\source\repos\for loop (if else)\for loop (if else)\obj\Debug\netcoreapp3.1\for loop (if else).csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\for loop (if else)\for loop (if else)\obj\Debug\netcoreapp3.1\for loop (if else).dll
+C:\Users\DELL\source\repos\for loop (if else)\for loop (if else)\obj\Debug\netcoreapp3.1\for loop (if else).pdb
+C:\Users\DELL\source\repos\for loop (if else)\for loop (if else)\obj\Debug\netcoreapp3.1\for loop (if else).genruntimeconfig.cache
