@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\forloop\forloop\bin\Debug\netcoreapp3.1\forloop.exe
+C:\Users\DELL\source\repos\forloop\forloop\bin\Debug\netcoreapp3.1\forloop.deps.json
+C:\Users\DELL\source\repos\forloop\forloop\bin\Debug\netcoreapp3.1\forloop.runtimeconfig.json
+C:\Users\DELL\source\repos\forloop\forloop\bin\Debug\netcoreapp3.1\forloop.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\forloop\forloop\bin\Debug\netcoreapp3.1\forloop.dll
+C:\Users\DELL\source\repos\forloop\forloop\bin\Debug\netcoreapp3.1\forloop.pdb
+C:\Users\DELL\source\repos\forloop\forloop\obj\Debug\netcoreapp3.1\forloop.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\forloop\forloop\obj\Debug\netcoreapp3.1\forloop.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\forloop\forloop\obj\Debug\netcoreapp3.1\forloop.AssemblyInfo.cs
+C:\Users\DELL\source\repos\forloop\forloop\obj\Debug\netcoreapp3.1\forloop.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\forloop\forloop\obj\Debug\netcoreapp3.1\forloop.dll
+C:\Users\DELL\source\repos\forloop\forloop\obj\Debug\netcoreapp3.1\forloop.pdb
+C:\Users\DELL\source\repos\forloop\forloop\obj\Debug\netcoreapp3.1\forloop.genruntimeconfig.cache
