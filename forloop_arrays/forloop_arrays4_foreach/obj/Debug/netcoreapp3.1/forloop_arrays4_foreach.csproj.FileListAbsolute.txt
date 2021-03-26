@@ -1,0 +1,12 @@
+D:\git\csharp_practice\forloop_arrays\forloop_arrays4_foreach\bin\Debug\netcoreapp3.1\forloop_arrays4_foreach.exe
+D:\git\csharp_practice\forloop_arrays\forloop_arrays4_foreach\bin\Debug\netcoreapp3.1\forloop_arrays4_foreach.deps.json
+D:\git\csharp_practice\forloop_arrays\forloop_arrays4_foreach\bin\Debug\netcoreapp3.1\forloop_arrays4_foreach.runtimeconfig.json
+D:\git\csharp_practice\forloop_arrays\forloop_arrays4_foreach\bin\Debug\netcoreapp3.1\forloop_arrays4_foreach.runtimeconfig.dev.json
+D:\git\csharp_practice\forloop_arrays\forloop_arrays4_foreach\bin\Debug\netcoreapp3.1\forloop_arrays4_foreach.dll
+D:\git\csharp_practice\forloop_arrays\forloop_arrays4_foreach\bin\Debug\netcoreapp3.1\forloop_arrays4_foreach.pdb
+D:\git\csharp_practice\forloop_arrays\forloop_arrays4_foreach\obj\Debug\netcoreapp3.1\forloop_arrays4_foreach.AssemblyInfoInputs.cache
+D:\git\csharp_practice\forloop_arrays\forloop_arrays4_foreach\obj\Debug\netcoreapp3.1\forloop_arrays4_foreach.AssemblyInfo.cs
+D:\git\csharp_practice\forloop_arrays\forloop_arrays4_foreach\obj\Debug\netcoreapp3.1\forloop_arrays4_foreach.csproj.CoreCompileInputs.cache
+D:\git\csharp_practice\forloop_arrays\forloop_arrays4_foreach\obj\Debug\netcoreapp3.1\forloop_arrays4_foreach.dll
+D:\git\csharp_practice\forloop_arrays\forloop_arrays4_foreach\obj\Debug\netcoreapp3.1\forloop_arrays4_foreach.pdb
+D:\git\csharp_practice\forloop_arrays\forloop_arrays4_foreach\obj\Debug\netcoreapp3.1\forloop_arrays4_foreach.genruntimeconfig.cache

@@ -1,0 +1,3 @@
+D:\git\csharp_practice\forloop_arrays\forloop_arrays4_foreach2\obj\Debug\netcoreapp3.1\forloop_arrays4_foreach2.AssemblyInfoInputs.cache
+D:\git\csharp_practice\forloop_arrays\forloop_arrays4_foreach2\obj\Debug\netcoreapp3.1\forloop_arrays4_foreach2.AssemblyInfo.cs
+D:\git\csharp_practice\forloop_arrays\forloop_arrays4_foreach2\obj\Debug\netcoreapp3.1\forloop_arrays4_foreach2.csproj.CoreCompileInputs.cache

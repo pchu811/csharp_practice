@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "forloop_arrays4_foreach/1.0.0": {
+        "runtime": {
+          "forloop_arrays4_foreach.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "forloop_arrays4_foreach/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
