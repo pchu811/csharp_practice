@@ -11,3 +11,16 @@ D:\C#\003_list\list\List2\obj\Debug\netcoreapp3.1\List2.csproj.CoreCompileInputs
 D:\C#\003_list\list\List2\obj\Debug\netcoreapp3.1\List2.dll
 D:\C#\003_list\list\List2\obj\Debug\netcoreapp3.1\List2.pdb
 D:\C#\003_list\list\List2\obj\Debug\netcoreapp3.1\List2.genruntimeconfig.cache
+D:\git\csharp_practice\003_list\list\List2\bin\Debug\netcoreapp3.1\List2.exe
+D:\git\csharp_practice\003_list\list\List2\bin\Debug\netcoreapp3.1\List2.deps.json
+D:\git\csharp_practice\003_list\list\List2\bin\Debug\netcoreapp3.1\List2.runtimeconfig.json
+D:\git\csharp_practice\003_list\list\List2\bin\Debug\netcoreapp3.1\List2.runtimeconfig.dev.json
+D:\git\csharp_practice\003_list\list\List2\bin\Debug\netcoreapp3.1\List2.dll
+D:\git\csharp_practice\003_list\list\List2\bin\Debug\netcoreapp3.1\List2.pdb
+D:\git\csharp_practice\003_list\list\List2\obj\Debug\netcoreapp3.1\List2.csprojAssemblyReference.cache
+D:\git\csharp_practice\003_list\list\List2\obj\Debug\netcoreapp3.1\List2.AssemblyInfoInputs.cache
+D:\git\csharp_practice\003_list\list\List2\obj\Debug\netcoreapp3.1\List2.AssemblyInfo.cs
+D:\git\csharp_practice\003_list\list\List2\obj\Debug\netcoreapp3.1\List2.csproj.CoreCompileInputs.cache
+D:\git\csharp_practice\003_list\list\List2\obj\Debug\netcoreapp3.1\List2.dll
+D:\git\csharp_practice\003_list\list\List2\obj\Debug\netcoreapp3.1\List2.pdb
+D:\git\csharp_practice\003_list\list\List2\obj\Debug\netcoreapp3.1\List2.genruntimeconfig.cache

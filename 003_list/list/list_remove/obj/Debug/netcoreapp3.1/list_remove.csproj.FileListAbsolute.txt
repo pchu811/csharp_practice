@@ -1,0 +1,13 @@
+D:\git\csharp_practice\003_list\list\list_remove\bin\Debug\netcoreapp3.1\list_remove.exe
+D:\git\csharp_practice\003_list\list\list_remove\bin\Debug\netcoreapp3.1\list_remove.deps.json
+D:\git\csharp_practice\003_list\list\list_remove\bin\Debug\netcoreapp3.1\list_remove.runtimeconfig.json
+D:\git\csharp_practice\003_list\list\list_remove\bin\Debug\netcoreapp3.1\list_remove.runtimeconfig.dev.json
+D:\git\csharp_practice\003_list\list\list_remove\bin\Debug\netcoreapp3.1\list_remove.dll
+D:\git\csharp_practice\003_list\list\list_remove\bin\Debug\netcoreapp3.1\list_remove.pdb
+D:\git\csharp_practice\003_list\list\list_remove\obj\Debug\netcoreapp3.1\list_remove.csprojAssemblyReference.cache
+D:\git\csharp_practice\003_list\list\list_remove\obj\Debug\netcoreapp3.1\list_remove.AssemblyInfoInputs.cache
+D:\git\csharp_practice\003_list\list\list_remove\obj\Debug\netcoreapp3.1\list_remove.AssemblyInfo.cs
+D:\git\csharp_practice\003_list\list\list_remove\obj\Debug\netcoreapp3.1\list_remove.csproj.CoreCompileInputs.cache
+D:\git\csharp_practice\003_list\list\list_remove\obj\Debug\netcoreapp3.1\list_remove.dll
+D:\git\csharp_practice\003_list\list\list_remove\obj\Debug\netcoreapp3.1\list_remove.pdb
+D:\git\csharp_practice\003_list\list\list_remove\obj\Debug\netcoreapp3.1\list_remove.genruntimeconfig.cache

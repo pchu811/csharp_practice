@@ -52,7 +52,7 @@ namespace Average
 
             //Console.WriteLine(myList.ToString());
 
-            int myNum = FindAverage(myList);
+            int myNum = FindAverage(myList); //=賦值 存起來
 
 
             Console.WriteLine("Average:" + myNum);

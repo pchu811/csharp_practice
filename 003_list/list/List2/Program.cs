@@ -110,17 +110,18 @@ namespace List2
 
             //Remove Elements from List
             var number3 = new List<int>() { 10, 20, 30, 40 };
-            number3.Remove(10); //remove the first 10 from the list
+            number3.Remove(100); //remove the first 10 from the list
             number3.RemoveAt(2); //remove the 3rd element(index start from 0)
 
 
             //Check Elements in List
             //Use the Contains() method to determine whether an element is in the List<T> or no
-            var numbers4 = new List<int>() { 10, 20, 30, 40 };
+            List<int> numbers4 = new List<int>() { 10, 20, 30, 40 };
             numbers4.Contains(10); // return true
-            numbers4.Contains(11); // return faulse
-            numbers4.Contains(20); // return true
-
+            bool true11 = numbers4.Contains(11); // return faulse
+            //把一個結果賦值給一個變量
+            //=永遠都是賦值
+            numbers4.Contains(20); // return trueb
 
 
         }
