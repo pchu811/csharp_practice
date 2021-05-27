@@ -1,0 +1,12 @@
+D:\C#\002_TestPractice\002_TestPractice\bin\Debug\netcoreapp3.1\01_Aarray.exe
+D:\C#\002_TestPractice\002_TestPractice\bin\Debug\netcoreapp3.1\01_Aarray.deps.json
+D:\C#\002_TestPractice\002_TestPractice\bin\Debug\netcoreapp3.1\01_Aarray.runtimeconfig.json
+D:\C#\002_TestPractice\002_TestPractice\bin\Debug\netcoreapp3.1\01_Aarray.runtimeconfig.dev.json
+D:\C#\002_TestPractice\002_TestPractice\bin\Debug\netcoreapp3.1\01_Aarray.dll
+D:\C#\002_TestPractice\002_TestPractice\bin\Debug\netcoreapp3.1\01_Aarray.pdb
+D:\C#\002_TestPractice\002_TestPractice\obj\Debug\netcoreapp3.1\01_Aarray.AssemblyInfoInputs.cache
+D:\C#\002_TestPractice\002_TestPractice\obj\Debug\netcoreapp3.1\01_Aarray.AssemblyInfo.cs
+D:\C#\002_TestPractice\002_TestPractice\obj\Debug\netcoreapp3.1\01_Aarray.csproj.CoreCompileInputs.cache
+D:\C#\002_TestPractice\002_TestPractice\obj\Debug\netcoreapp3.1\01_Aarray.dll
+D:\C#\002_TestPractice\002_TestPractice\obj\Debug\netcoreapp3.1\01_Aarray.pdb
+D:\C#\002_TestPractice\002_TestPractice\obj\Debug\netcoreapp3.1\01_Aarray.genruntimeconfig.cache
