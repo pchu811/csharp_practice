@@ -1,0 +1,13 @@
+D:\git\csharp_practice\004_Return\004_Return\bin\Debug\netcoreapp3.1\004_Return.exe
+D:\git\csharp_practice\004_Return\004_Return\bin\Debug\netcoreapp3.1\004_Return.deps.json
+D:\git\csharp_practice\004_Return\004_Return\bin\Debug\netcoreapp3.1\004_Return.runtimeconfig.json
+D:\git\csharp_practice\004_Return\004_Return\bin\Debug\netcoreapp3.1\004_Return.runtimeconfig.dev.json
+D:\git\csharp_practice\004_Return\004_Return\bin\Debug\netcoreapp3.1\004_Return.dll
+D:\git\csharp_practice\004_Return\004_Return\bin\Debug\netcoreapp3.1\004_Return.pdb
+D:\git\csharp_practice\004_Return\004_Return\obj\Debug\netcoreapp3.1\004_Return.csprojAssemblyReference.cache
+D:\git\csharp_practice\004_Return\004_Return\obj\Debug\netcoreapp3.1\004_Return.AssemblyInfoInputs.cache
+D:\git\csharp_practice\004_Return\004_Return\obj\Debug\netcoreapp3.1\004_Return.AssemblyInfo.cs
+D:\git\csharp_practice\004_Return\004_Return\obj\Debug\netcoreapp3.1\004_Return.csproj.CoreCompileInputs.cache
+D:\git\csharp_practice\004_Return\004_Return\obj\Debug\netcoreapp3.1\004_Return.dll
+D:\git\csharp_practice\004_Return\004_Return\obj\Debug\netcoreapp3.1\004_Return.pdb
+D:\git\csharp_practice\004_Return\004_Return\obj\Debug\netcoreapp3.1\004_Return.genruntimeconfig.cache
