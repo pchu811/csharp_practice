@@ -1,0 +1,13 @@
+D:\git\csharp_practice\005_swich\005_swich\bin\Debug\netcoreapp3.1\005_swich.exe
+D:\git\csharp_practice\005_swich\005_swich\bin\Debug\netcoreapp3.1\005_swich.deps.json
+D:\git\csharp_practice\005_swich\005_swich\bin\Debug\netcoreapp3.1\005_swich.runtimeconfig.json
+D:\git\csharp_practice\005_swich\005_swich\bin\Debug\netcoreapp3.1\005_swich.runtimeconfig.dev.json
+D:\git\csharp_practice\005_swich\005_swich\bin\Debug\netcoreapp3.1\005_swich.dll
+D:\git\csharp_practice\005_swich\005_swich\bin\Debug\netcoreapp3.1\005_swich.pdb
+D:\git\csharp_practice\005_swich\005_swich\obj\Debug\netcoreapp3.1\005_swich.csprojAssemblyReference.cache
+D:\git\csharp_practice\005_swich\005_swich\obj\Debug\netcoreapp3.1\005_swich.AssemblyInfoInputs.cache
+D:\git\csharp_practice\005_swich\005_swich\obj\Debug\netcoreapp3.1\005_swich.AssemblyInfo.cs
+D:\git\csharp_practice\005_swich\005_swich\obj\Debug\netcoreapp3.1\005_swich.csproj.CoreCompileInputs.cache
+D:\git\csharp_practice\005_swich\005_swich\obj\Debug\netcoreapp3.1\005_swich.dll
+D:\git\csharp_practice\005_swich\005_swich\obj\Debug\netcoreapp3.1\005_swich.pdb
+D:\git\csharp_practice\005_swich\005_swich\obj\Debug\netcoreapp3.1\005_swich.genruntimeconfig.cache

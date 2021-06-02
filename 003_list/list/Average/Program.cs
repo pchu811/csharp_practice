@@ -12,6 +12,14 @@ namespace Average
         {
             int result = 0;
 
+            //求個數
+            int length = myList.Count;
+
+            if (length == 0)
+            {
+                Console.WriteLine("myList can not be 0");
+                return 0;
+            }
 
             //求總和
             int sum = 0;
@@ -19,21 +27,13 @@ namespace Average
             for(int i = 0; i< myList.Count; i++)
             {
                 sum = sum + myList[i];
-            }
+            }        
 
-            //求個數
-            int Length = myList.Count;
-
-            if (Length == 0)
-            {
-                Console.WriteLine("myList can not be 0");
-                return 0;
-            }
 
             //平均值 --- 總和 / 個數
-            result = sum / Length;
+            result = sum / length;
 
-           return result;
+            return result;
 
         }
 

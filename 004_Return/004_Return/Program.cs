@@ -101,6 +101,10 @@ namespace _004_Return
             Console.WriteLine(s1[0]);
             Console.WriteLine(s1[3]);
 
+            int charPos = s1.IndexOf("C"); //location of the letter C
+            Console.WriteLine(charPos);
+            string lastname = s1.Substring(charPos); //find the lastname
+            Console.WriteLine(lastname);
 
 
 
