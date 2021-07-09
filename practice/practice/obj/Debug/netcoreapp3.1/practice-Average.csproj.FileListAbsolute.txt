@@ -1,0 +1,13 @@
+D:\git\csharp_practice\practice\practice\bin\Debug\netcoreapp3.1\practice-Average.exe
+D:\git\csharp_practice\practice\practice\bin\Debug\netcoreapp3.1\practice-Average.deps.json
+D:\git\csharp_practice\practice\practice\bin\Debug\netcoreapp3.1\practice-Average.runtimeconfig.json
+D:\git\csharp_practice\practice\practice\bin\Debug\netcoreapp3.1\practice-Average.runtimeconfig.dev.json
+D:\git\csharp_practice\practice\practice\bin\Debug\netcoreapp3.1\practice-Average.dll
+D:\git\csharp_practice\practice\practice\bin\Debug\netcoreapp3.1\practice-Average.pdb
+D:\git\csharp_practice\practice\practice\obj\Debug\netcoreapp3.1\practice-Average.csprojAssemblyReference.cache
+D:\git\csharp_practice\practice\practice\obj\Debug\netcoreapp3.1\practice-Average.AssemblyInfoInputs.cache
+D:\git\csharp_practice\practice\practice\obj\Debug\netcoreapp3.1\practice-Average.AssemblyInfo.cs
+D:\git\csharp_practice\practice\practice\obj\Debug\netcoreapp3.1\practice-Average.csproj.CoreCompileInputs.cache
+D:\git\csharp_practice\practice\practice\obj\Debug\netcoreapp3.1\practice-Average.dll
+D:\git\csharp_practice\practice\practice\obj\Debug\netcoreapp3.1\practice-Average.pdb
+D:\git\csharp_practice\practice\practice\obj\Debug\netcoreapp3.1\practice-Average.genruntimeconfig.cache

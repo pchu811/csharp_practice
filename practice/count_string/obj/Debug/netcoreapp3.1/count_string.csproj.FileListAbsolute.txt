@@ -1,0 +1,13 @@
+D:\git\csharp_practice\practice\count_string\bin\Debug\netcoreapp3.1\count_string.exe
+D:\git\csharp_practice\practice\count_string\bin\Debug\netcoreapp3.1\count_string.deps.json
+D:\git\csharp_practice\practice\count_string\bin\Debug\netcoreapp3.1\count_string.runtimeconfig.json
+D:\git\csharp_practice\practice\count_string\bin\Debug\netcoreapp3.1\count_string.runtimeconfig.dev.json
+D:\git\csharp_practice\practice\count_string\bin\Debug\netcoreapp3.1\count_string.dll
+D:\git\csharp_practice\practice\count_string\bin\Debug\netcoreapp3.1\count_string.pdb
+D:\git\csharp_practice\practice\count_string\obj\Debug\netcoreapp3.1\count_string.csprojAssemblyReference.cache
+D:\git\csharp_practice\practice\count_string\obj\Debug\netcoreapp3.1\count_string.AssemblyInfoInputs.cache
+D:\git\csharp_practice\practice\count_string\obj\Debug\netcoreapp3.1\count_string.AssemblyInfo.cs
+D:\git\csharp_practice\practice\count_string\obj\Debug\netcoreapp3.1\count_string.csproj.CoreCompileInputs.cache
+D:\git\csharp_practice\practice\count_string\obj\Debug\netcoreapp3.1\count_string.dll
+D:\git\csharp_practice\practice\count_string\obj\Debug\netcoreapp3.1\count_string.pdb
+D:\git\csharp_practice\practice\count_string\obj\Debug\netcoreapp3.1\count_string.genruntimeconfig.cache
